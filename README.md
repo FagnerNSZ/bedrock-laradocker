@@ -1,8 +1,10 @@
 # bedrock-laradocker
 using bedrock and laradocker
+
+
 ------ RUM BERDROCK WORDPRESS IN LARADOCKER------
 
-1 - In the past for aplucation, in my case in bedrock 
+1 - In the past for aplication, in my case in bedrock 
 	obs: your ladadocker folder will stay inside the bedrock folder so that the settings are applied to the Docker container in our case we will use the laradocker.
 	
 2 - Enter the folder and inside install the laradocker
